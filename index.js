@@ -1,6 +1,7 @@
 var cart = [];
 
-function getCart() {
+function getCart(name) {
+  // var cart = {[name]: Math.floor(100 * Math.random())}
  return cart;
 }
 
